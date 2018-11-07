@@ -1,0 +1,159 @@
+[33mcommit e687e2e5d6f79408d58c9d60b4ca05ff2a72c1d6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c4c9bb5 e04b2b0
+Author: hzx11010 <13641040120@163.com>
+Date:   Wed Mar 14 19:20:21 2018 +0800
+
+    系统设置 通知发布组件
+
+[33mcommit c4c9bb59d5f4bdc928d454291a172f74b19b9d16[m
+Author: hzx11010 <13641040120@163.com>
+Date:   Wed Mar 14 19:17:14 2018 +0800
+
+    系统管理 通知发布组件
+
+[33mcommit e04b2b0f752560799c4f2e38bc51e576e0e163bf[m
+Author: psc <652501825@qq.com>
+Date:   Wed Mar 14 19:02:41 2018 +0800
+
+    格式调整
+
+[33mcommit 540d5654e00695af3b0c6d33603d88414b800d06[m
+Merge: bf31552 b6f478f
+Author: psc <652501825@qq.com>
+Date:   Wed Mar 14 18:57:38 2018 +0800
+
+    Merge branch 'master' of ssh://medbooks.jios.org:2222/book-web/ExpensesReimbursement
+
+[33mcommit bf315520e552fa62175f3965cfe95a77f373fcd5[m
+Author: psc <652501825@qq.com>
+Date:   Wed Mar 14 18:56:18 2018 +0800
+
+    修改菜单
+
+[33mcommit b6f478f6713f9e89f0a1a1969a1d47ea1c09e49e[m
+Merge: 9d5f1d9 b6b57e0
+Author: qss <574876146@qq.com>
+Date:   Wed Mar 14 18:30:40 2018 +0800
+
+    Merge branch 'master' of http://medbooks.jios.org:8088/book-web/ExpensesReimbursement
+
+[33mcommit 9d5f1d9896f0235969eafec6e044875b4aea3af4[m
+Author: qss <574876146@qq.com>
+Date:   Wed Mar 14 18:30:37 2018 +0800
+
+    添加了图表组件
+
+[33mcommit b6b57e057eefa7dbad9cc303861c23135aa0e51b[m
+Author: psc <652501825@qq.com>
+Date:   Wed Mar 14 15:48:08 2018 +0800
+
+    add header menu footer
+
+[33mcommit 1ac5218d275696f1ab3df3113930afe482db8dd6[m
+Merge: acc78fd 09dbf69
+Author: psc <652501825@qq.com>
+Date:   Wed Mar 14 09:40:32 2018 +0800
+
+    add header
+
+[33mcommit acc78fdb897cd2255ee17a3ab604fdfee72a8402[m
+Author: psc <652501825@qq.com>
+Date:   Wed Mar 14 09:39:52 2018 +0800
+
+    add header.vue
+
+[33mcommit 09dbf6937da6fbde89f6dab129e9344821c85919[m
+Author: qss <574876146@qq.com>
+Date:   Tue Mar 13 18:56:13 2018 +0800
+
+    添加FusionCharts
+
+[33mcommit a58bb46eb444f0fbee565abb5aecd32ba4d20805[m
+Author: qss <574876146@qq.com>
+Date:   Tue Mar 13 18:39:50 2018 +0800
+
+    Revert "安装echarts依赖"
+    
+    This reverts commit 805ea8ee87ca09f20079bcd0b9ebd201a810a754.
+
+[33mcommit 805ea8ee87ca09f20079bcd0b9ebd201a810a754[m
+Author: qss <574876146@qq.com>
+Date:   Tue Mar 13 18:31:08 2018 +0800
+
+    安装echarts依赖
+
+[33mcommit f3373cb0c20de4aac657706d93c5b85494b10282[m
+Author: qss <574876146@qq.com>
+Date:   Tue Mar 13 18:04:14 2018 +0800
+
+    流程
+
+[33mcommit b9a5a17acf187027bfc08b3a552eab3e1fcea056[m
+Author: qss <574876146@qq.com>
+Date:   Tue Mar 13 17:52:54 2018 +0800
+
+    依赖
+
+[33mcommit 114f0ea9ba7b76dc4c18eb5eb2cb00a805d98b09[m
+Author: qss <574876146@qq.com>
+Date:   Tue Mar 13 17:52:08 2018 +0800
+
+    新建view文件夹
+
+[33mcommit dca7428f15bc18691d1ba22447d85f327b0af6b1[m
+Author: qss <574876146@qq.com>
+Date:   Tue Mar 13 15:31:04 2018 +0800
+
+    Revert "模板引入"
+    
+    This reverts commit b18aaa5c4c5cdb2cbfac06faf1b57c943e4e3496.
+
+[33mcommit b18aaa5c4c5cdb2cbfac06faf1b57c943e4e3496[m
+Author: qss <574876146@qq.com>
+Date:   Tue Mar 13 14:35:09 2018 +0800
+
+    模板引入
+
+[33mcommit 6528f19706f426478f36d438c6bfd1db0f6e39a5[m
+Author: qss <574876146@qq.com>
+Date:   Mon Mar 12 16:29:15 2018 +0800
+
+    Revert "url去掉＃号"
+    
+    This reverts commit 9ad3d66c6cb32c5469d04eebd960913eddb2e08a.
+
+[33mcommit 9ad3d66c6cb32c5469d04eebd960913eddb2e08a[m
+Author: qss <574876146@qq.com>
+Date:   Mon Mar 12 16:18:11 2018 +0800
+
+    url去掉＃号
+
+[33mcommit a6a00a5b7b8af450d3d388c62b3c943aee81b51d[m
+Author: qss <574876146@qq.com>
+Date:   Mon Mar 12 15:44:05 2018 +0800
+
+    增加状态文件
+
+[33mcommit b153eee02274b42253f12e13c599df2a85682a09[m
+Author: qss <574876146@qq.com>
+Date:   Mon Mar 12 15:26:18 2018 +0800
+
+    添加vuex 与 axios
+
+[33mcommit a5ceda9b3d3747da7923f5b487866f5755d1304b[m
+Author: qss <574876146@qq.com>
+Date:   Mon Mar 12 14:27:45 2018 +0800
+
+    添加element-ui
+
+[33mcommit c079c01de53891c552ac82c6ce80dc8736cf9806[m
+Author: qss <574876146@qq.com>
+Date:   Mon Mar 12 11:55:04 2018 +0800
+
+    e
+
+[33mcommit 21f42cefeb5579d6369c4fe5b49070a9bc664666[m
+Author: qss <574876146@qq.com>
+Date:   Mon Mar 12 11:52:02 2018 +0800
+
+    经费报销环境搭建
